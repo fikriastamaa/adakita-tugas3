@@ -22,7 +22,7 @@ class AnggotaPage extends StatelessWidget {
     {
       'nama': 'Fikri Astama Putra',
       'nim': '123220108',
-      'foto': 'assets/fikri.JPEG',
+      'foto': 'assets/raiku.jpg',
     },
   ];
 
